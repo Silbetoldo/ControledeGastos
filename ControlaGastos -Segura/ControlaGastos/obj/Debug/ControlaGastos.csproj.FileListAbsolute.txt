@@ -1,0 +1,241 @@
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\ControlaGastos.exe.config
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\ControlaGastos.exe
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\ControlaGastos.pdb
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\MetroFramework.dll
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\obj\Debug\ControlaGastos.csprojResolveAssemblyReference.cache
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\obj\Debug\ControlaGastos.Form1.resources
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\obj\Debug\ControlaGastos.Properties.Resources.resources
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\obj\Debug\ControlaGastos.csproj.GenerateResource.Cache
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\obj\Debug\ControlaGastos.exe
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\obj\Debug\ControlaGastos.pdb
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\obj\Debug\ControlaGastos.frmCadastro.resources
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\MySql.Data.dll
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\Google.Protobuf.dll
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\Zstandard.Net.dll
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\BouncyCastle.Crypto.dll
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\Ubiety.Dns.Core.dll
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\Renci.SshNet.dll
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\System.Buffers.dll
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\K4os.Compression.LZ4.dll
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\K4os.Hash.xxHash.dll
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\bin\Debug\MySql.Data.xml
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\obj\Debug\ControlaGastos.csproj.ControlaGastos.exe.config
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\obj\Debug\ControlaGastos.frmLogin.resources
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\obj\Debug\ControlaGastos.FrmUsuario.resources
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos\ControlaGastos\obj\Debug\ControlaGastos.frmEdita.resources
+s:\documentos\visual studio 2015\Projects\ControlaGastos\ControlaGastos\obj\Debug\ControlaGastos.csproj.ResolveComReference.cache
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\ControlaGastos.exe.config
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\obj\Debug\ControlaGastos.csproj.ResolveComReference.cache
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\obj\Debug\ControlaGastos.exe
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\obj\Debug\ControlaGastos.pdb
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\obj\Debug\ControlaGastos.csprojResolveAssemblyReference.cache
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\obj\Debug\ControlaGastos.csproj.ControlaGastos.exe.config
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\obj\Debug\ControlaGastos.Form1.resources
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\obj\Debug\ControlaGastos.frmCadastro.resources
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\obj\Debug\ControlaGastos.frmEdita.resources
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\obj\Debug\ControlaGastos.frmLogin.resources
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\obj\Debug\ControlaGastos.FrmUsuario.resources
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\obj\Debug\ControlaGastos.Properties.Resources.resources
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\obj\Debug\ControlaGastos.csproj.GenerateResource.Cache
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\ControlaGastos.exe
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\ControlaGastos.pdb
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\MetroFramework.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\MySql.Data.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\Google.Protobuf.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\Zstandard.Net.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\BouncyCastle.Crypto.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\Ubiety.Dns.Core.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\Renci.SshNet.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\System.Buffers.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\K4os.Compression.LZ4.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\K4os.Hash.xxHash.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos - Cópia\ControlaGastos\bin\Debug\MySql.Data.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\ControlaGastos.exe.config
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.csproj.ResolveComReference.cache
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.exe
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.pdb
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\ControlaGastos.exe
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\ControlaGastos.pdb
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\MetroFramework.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\MySql.Data.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Google.Protobuf.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Zstandard.Net.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\BouncyCastle.Crypto.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Ubiety.Dns.Core.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Renci.SshNet.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\System.Buffers.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\K4os.Compression.LZ4.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\K4os.Hash.xxHash.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\MySql.Data.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.csproj.ControlaGastos.exe.config
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.Form1.resources
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.frmCadastro.resources
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.frmEdita.resources
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.frmLogin.resources
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.FrmUsuario.resources
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.Properties.Resources.resources
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.csproj.GenerateResource.Cache
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.Frmexcluir.resources
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.csprojResolveAssemblyReference.cache
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.Licensing.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+S:\Documentos\Visual Studio 2015\Projects\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\ControlaGastos.exe.config
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.csproj.ResolveComReference.cache
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.exe
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.pdb
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\ControlaGastos.exe
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\ControlaGastos.pdb
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.Licensing.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\MySql.Data.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Google.Protobuf.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Zstandard.Net.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\BouncyCastle.Crypto.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Ubiety.Dns.Core.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Renci.SshNet.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\System.Buffers.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\K4os.Compression.LZ4.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\K4os.Hash.xxHash.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\bin\Debug\MySql.Data.xml
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.csprojResolveAssemblyReference.cache
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.csproj.ControlaGastos.exe.config
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.Form1.resources
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.frmCadastro.resources
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.frmEdita.resources
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.Frmexcluir.resources
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.frmLogin.resources
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.FrmUsuario.resources
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.Properties.Resources.resources
+S:\Sil\Desktop\Estudos Fatec\Ronnie\ProjetoFinal- Modulo 2\ControlaGastos -Segura\ControlaGastos\obj\Debug\ControlaGastos.csproj.GenerateResource.Cache
